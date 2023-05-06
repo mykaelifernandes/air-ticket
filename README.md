@@ -1,6 +1,6 @@
 # Air Ticket  
 
-<img height="30" width="40" src = "https://user-images.githubusercontent.com/88605247/236643797-63c446c3-5320-45c4-9b73-f994e4959cc5.png"/>
+<img img align="center" height="60" width="60" src = "https://user-images.githubusercontent.com/88605247/236643938-996a23c8-cecd-4794-bc14-42bf0e71a212.png"/>
 
 <img src="https://img.shields.io/badge/STATUS-EM ANDAMENTO-green"/>
 
