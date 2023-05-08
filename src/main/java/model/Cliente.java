@@ -1,6 +1,6 @@
 package model;
 /*
-informações pessoais, como nome, endereço, telefone.
+informações pessoais do cliente.
  */
 public class Cliente {
 
